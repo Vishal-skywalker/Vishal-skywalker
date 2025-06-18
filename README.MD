@@ -13,8 +13,8 @@
 - 🧰 Tech Stack:
   - **Salesforce**: Apex, LWC, Visualforce, Community Cloud, SAML SSO
   - **Backend**: Spring Boot, Node.js (Express), Swagger
-  - **Frontend**: HTML, CSS, JavaScript, LWC
-  - **Database**: MySQL, Postgresql
+  - **Frontend**: HTML, CSS, JavaScript, LWC, React.js
+  - **Database**: MySQL, PostgreSQL
 - 🔄 Tinkering with: **Chrome Extensions**, **URL Shorteners**, **Auth flows**
 - 🌍 Based in: Mohali–Chandigarh region, India
 
@@ -34,6 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </p>
 
 ---
@@ -59,10 +60,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishaldasdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/Vishal-skywalker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vishaldas.dev@gmail.com">
+  <a href="mailto:das.vishal8583@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
