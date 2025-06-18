@@ -39,13 +39,13 @@
 
 ### 🔥 GitHub Stats (Responsive Layout)
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-skywalker&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-skywalker&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-skywalker&layout=compact&theme=tokyonight" alt="Top Languages" width="42%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-skywalker&theme=react-dark" alt="Contribution Graph" width="95%" style="margin-left: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-skywalker&theme=react-dark" alt="Contribution Graph" width="95%"  />
   
 </div>
 
