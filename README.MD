@@ -23,28 +23,32 @@
 ### 🔧 Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 </p>
 
 ---
 
-### 🔥 My Contributions
+### 🔥 GitHub Stats (Two Column Layout)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-skywalker&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🔥 GitHub Stats (Responsive Layout)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-skywalker&theme=highcontrast" alt="GitHub Streak" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-skywalker&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-skywalker&layout=compact&theme=tokyonight" alt="Top Languages" width="35%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-skywalker&theme=react-dark" alt="Contribution Graph" width="%" />
+  
+</div>
+
 
 ---
 
@@ -60,10 +64,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Vishal-skywalker/" target="_blank">
+  <a href="https://www.linkedin.com/in/vishaldasdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:das.vishal8583@gmail.com">
+  <a href="mailto:vishaldas.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -71,7 +75,4 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
-<p align="center">Thanks for stopping by! ⭐</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" wi
