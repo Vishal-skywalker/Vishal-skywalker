@@ -14,7 +14,7 @@
   - **Salesforce**: Apex, LWC, Visualforce, Community Cloud, SAML SSO
   - **Backend**: Spring Boot, Node.js (Express), Swagger
   - **Frontend**: HTML, CSS, JavaScript, LWC
-  - **Database**: MySQL, MongoDB
+  - **Database**: MySQL, Postgresql
 - 🔄 Tinkering with: **Chrome Extensions**, **URL Shorteners**, **Auth flows**
 - 🌍 Based in: Mohali–Chandigarh region, India
 
@@ -23,30 +23,25 @@
 ### 🔧 Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats (Two Column Layout)
+### 🔥 GitHub Stats
 
-### 🔥 GitHub Stats (Responsive Layout)
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-skywalker&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-skywalker&layout=compact&theme=tokyonight" alt="Top Languages" width="42%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-skywalker&theme=react-dark" alt="Contribution Graph" width="95%"  />
-  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-skywalker&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
@@ -75,4 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" wi
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
+<p align="center">Thanks for stopping by! ⭐</p>
